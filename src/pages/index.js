@@ -60,7 +60,7 @@ const docLink = {
 // data
 const links = [
   {
-    text: "Tutorial",
+    text: "Tutorialsss",
     url: "https://www.gatsbyjs.com/docs/tutorial/",
     description:
       "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
